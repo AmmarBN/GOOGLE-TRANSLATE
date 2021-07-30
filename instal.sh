@@ -4,4 +4,4 @@ clear
     pip install --upgrade pip && pip install requests && pip install mechanize && pip2 install requests && pip2 install mechanize
     pkg install wget -y
 clear
-   python2 multi.py
+   python2 translate.py
