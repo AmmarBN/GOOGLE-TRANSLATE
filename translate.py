@@ -4,6 +4,10 @@ try:
     import time;
 except:
     os.system("pip install requests")
+#MAU APA LU ANJJING
+#MAU RECODE IJIN DLU ASW
+#ATAU BUAT SENDIRI ANJJING
+#TOLOL
 # untuk me-print waktu saat ini local
 localtime = time.asctime(time.localtime(time.time()))
 
